@@ -1,1 +1,1 @@
-# cython_tutorial
+# cython_astro_tutorial
